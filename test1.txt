@@ -1,1 +1,2 @@
 test
+test (Zadanie 7)
