@@ -1,2 +1,2 @@
-test
-test (Zadanie 7)
+test 
+test Zadanie8
